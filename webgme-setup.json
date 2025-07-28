@@ -1,0 +1,18 @@
+{
+  "components": {
+    "seeds": {},
+    "visualizers": {
+      "iCore": {
+        "src": "panels/iCore/iCorePanel",
+        "title": "iCore",
+        "panel": "src/visualizers/panels/iCore",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/iCore"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {},
+    "visualizers": {}
+  }
+}

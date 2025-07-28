@@ -1,0 +1,8 @@
+[
+  {
+    "id": "iCore",
+    "title": "iCore",
+    "panel": "panels/iCore/iCorePanel",
+    "DEBUG_ONLY": false
+  }
+]
