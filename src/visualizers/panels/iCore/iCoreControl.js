@@ -393,6 +393,7 @@ define([
         this._runAutomaticTests();
     };
 
+    
     iCoreControl.prototype.onDeactivate=function(){
         this._detachClientEventListeners();
         this._hideToolbarItems();
@@ -466,7 +467,7 @@ define([
 
 
 
-        
+
         // create the test function button --- added to faciliate the test suite
         this.$btnCreateTestFunction = toolBar.addButton({
             title: 'Create Test Function',
